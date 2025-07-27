@@ -10,12 +10,6 @@ This open-source project aims to predict the outcomes of UFC fights using Machin
 
 Built using Python, pandas, scikit-learn, and other AI tools.
 
-# 🥊 UFC Fight Outcome Predictor
-
-A Machine Learning project that predicts the winner of UFC fights based on fighter stats using Python.
-
----
-
 ## ✅ Project Timeline
 
 ### 📅 Day 1: Data Collection & Preprocessing
